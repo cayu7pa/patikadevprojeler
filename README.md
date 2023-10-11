@@ -1,0 +1,1 @@
+## patika.dev eğitim içeriklerine hazırlanan ödevlerin reposudur
